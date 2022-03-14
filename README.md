@@ -35,10 +35,10 @@
 
 7. Git revert
    Terkadang kita perlu membatalkan perubahan yang telah kita buat. Ada berbagai cara untuk membatalkan perubahan kita secara lokal atau jarak jauh (tergantung pada apa yang kita butuhkan), tetapi kita harus hati-hati menggunakan perintah ini untuk menghindari penghapusan yang tidak diinginkan.
+
    > > : git revert <code revert>
 
-Quick setup — if you’ve done this kind of thing before
-or
+Quick setup — Git Hub
 …or create a new repository on the command line
 echo "# Git-Command" >> README.md
 git init
